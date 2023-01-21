@@ -1,0 +1,9 @@
+--> Node is a JS runtime not a Framwork or library (V8 Engine written in c++ from what we get NodeJS)
+--> for run any file we do "node Filename" 
+
+1 > First need to setup NPM using "NPM init"
+2 > Install Packages using "NPM Install PackageNAme" (IF we normal write "NPM Install" it will install everything from package.json file)
+3 > Install Dev Deoenedency packages help of "NPM install -D nodemon" Nodemon is a example package here.
+4 > add scrpt in package  with nomon bcz auto change file an simple "npm run dev"
+
+

@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "This is a Self-Learning Tutorial ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rounak00/NodeJS_Tutorial.git"
+  },
+  "author": "Rounak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rounak00/NodeJS_Tutorial/issues"
+  },
+  "homepage": "https://github.com/Rounak00/NodeJS_Tutorial#readme",
+  "dependencies": {
+    "cli-color": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
