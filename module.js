@@ -22,7 +22,7 @@ console.log("file is : ", path.basename(__filename)) //filename
 console.log("file's extention is : ", path.extname(__filename)) //extention
 console.log("Parse is : ", path.parse(__filename)) // return a obj of   base,ext,name,dir,root
 console.log("Join :",path.join(__dirname,"order","app.js"))// directory+folder+file
-
+//similar path.resolve()// give absolute path
 
 const file=require('fs');
 
